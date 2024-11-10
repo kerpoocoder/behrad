@@ -165,26 +165,31 @@ YES
 برنامه ای بنویسید که عدد n را ورودی گرفته و n سطر چاپ نماید که سطر i ام i تا علامت + پشت سر هم داشته باشد .
 
 مثال:
+<div dir="ltr">
 
-n=5<br>
-+<br>
-++<br>
-+++<br>
-++++<br>
+```
+n=5
++
+++
++++
+++++
 +++++
 
-n=2<br>
-+<br>
-++<br>
+n=2
++
+++
 
-n=7<br>
-+<br>
-++<br>
-+++<br>
-++++<br>
-+++++<br>
-++++++<br>
+n=7
++
+++
++++
+++++
++++++
+++++++
 +++++++
+```
+
+</div>
 
 <code style="color:red">تمرین پنجم</code>
 سوالات زیر از سایت 
@@ -198,34 +203,36 @@ n=7<br>
 <code style="color:red">تمرین ششم</code>
 برنامه ای بنویسید که عدد فردی مانند n دریافت کند و یک جدول n*n چاپ کند که در آن یک لوزی بزرگ از 'x' ها باشد و بقیه مقادیر '.' باشند برای درک بهتر به مثال های زیر دقت کنید:
 
-<span style="font-family: 'Courier New', Courier, monospace;">
+<div dir="ltr">
 
-n=5:<br>
-..x..<br>
-.xxx.<br>
-xxxxx<br>
-.xxx.<br>
-..x..<br><br>
+```
+n=5:
+..x..
+.xxx.
+xxxxx
+.xxx.
+..x..
 
-n=9:<br>
-....x....<br>
-...xxx...<br>
-..xxxxx..<br>
-.xxxxxxx.<br>
-xxxxxxxxx<br>
-.xxxxxxx.<br>
-..xxxxx..<br>
-...xxx...<br>
-....x....<br><br>
+n=9:
+....x....
+...xxx...
+..xxxxx..
+.xxxxxxx.
+xxxxxxxxx
+.xxxxxxx.
+..xxxxx..
+...xxx...
+....x....
 
-n=1:<br>
-x<br><br>
+n=1:
+x
 
-n=3:<br>
-.x.<br>
-xxx<br>
-.x.<br>
-</span>
+n=3:
+.x.
+xxx
+.x.
+```
+</div>
 
 <details>
 <summary style="color:green">راهنمایی</summary> 
