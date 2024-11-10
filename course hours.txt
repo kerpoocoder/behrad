@@ -1,0 +1,4 @@
+session     Date     Duration
+  #1        Nov.5	01:35
+  #2	    Nov.6	01:10
+  #3	    Nov.9       01:45
