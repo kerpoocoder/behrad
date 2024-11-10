@@ -2,14 +2,14 @@
 <details>
 <summary><strong>سری اول تمرینات</strong></summary>
 
-<strong style="color:red;">تمرین اول</strong>
+<code style="color:red">تمرین اول</code>
 برنامه‌ای بنویسید که عدد x را به عنوان ورودی دریافت کند و ۵ عدد متوالی که از x شروع می‌شوند را با هم جمع نموده و حاصل جمع را چاپ کند.
 
 برای مثال اگر ورودی ۳ باشد، خروجی باید به این صورت باشد:
 
 ۳ + ۴ + ۵ + ۶ + ۷ = ۲۵
 
-<strong style="color:red;">تمرین دوم</strong>
+<code style="color:red">تمرین دوم</code>
 برنامه ای بنویسید که خروجی آن عبارت زیر باشد:
 
 \#  
@@ -18,7 +18,7 @@
 \####  
 \#####  
 
-<strong style="color:red;">تمرین سوم</strong>
+<code style="color:red">تمرین سوم</code>
 برنامه ای بنویسید که محتوی دو متغیر را با هم تعویض کنید برای مثال اگر 
 x=3,y=5;
 کاری کند که 
@@ -26,16 +26,16 @@ y=3,x=5;
 شود. 
 
 <details>
-<summary style="color:green;">راهنمایی</summary> 
+<summary style="color:green">راهنمایی</summary> 
 فرض کنید یک لیوان حاوی شیر دارید و یک لیوان حاوی نوشابه اگر بخواهید محتوای این دو لیوان را با هم تعویض کنید چه می کنید؟ یعنی کاری کنید که لیوانی که حاوی نوشابه بود حاوی شیر شود و بالعکس
 </details>
 <br>
 
-<strong style="color:red;">تمرین چهارم</strong>
+<code style="color:red">تمرین چهارم</code>
 برنامه ای بنویسید که سه عدد متمایز را دریافت کند و آن ها را به ترتیب از کوچک به بزرگ نمایش دهد. 
 
 <details>
-<summary style="color:green;">راهنمایی</summary> 
+<summary style="color:green">راهنمایی</summary> 
 یکی از راه ها این است که از تمرین سوم کمک بگیرید.
 </details>
 <br>
@@ -45,7 +45,7 @@ y=3,x=5;
 <details>
 <summary><strong>سری دوم تمرینات</strong></summary>
 
-<strong style="color:red;">تمرین اول</strong>
+<code style="color:red">تمرین اول</code>
 برنامه ای بنویسید که سه عدد دریافت کند و اگر این سه عدد می توانند اضلاع یک مثلث قائم الزاویه باشند YES در غیر این صورت NO چاپ کند.
 
 مثال: ورودی 3 4 5 را YES چاپ کنید و ورودی 1,2,1 را NO چاپ کند.
@@ -58,7 +58,7 @@ y=3,x=5;
 4 5 3
 </div>
 
-<strong style="color:red;">تمرین دوم</strong>
+<code style="color:red">تمرین دوم</code>
 9 عدد ورودی بگیرید آن ها را در یک آرایه 3×3 به ترتیب ذخیره کنید سپس حاصل ضرب اعداد روی قطر اصلی و فرعی این آرایه را چاپ نمایید.
 
 مثال:
@@ -77,7 +77,7 @@ y=3,x=5;
   3\*5\*7
 .
 
-<strong style="color:red;">تمرین سوم</strong>
+<code style="color:red">تمرین سوم</code>
 برنامه ای بنویسید که یک عدد مثبت n ورودی بگیرد و n تا علامت + پشت سر هم به عنوان خروجی در یک خط چاپ کند.
 
 مثال:
@@ -101,7 +101,7 @@ y=3,x=5;
 <details>
 <summary><strong>سری سوم تمرینات</strong></summary>
 
-<strong style="color:red;">تمرین اول</strong>
+<code style="color:red">تمرین اول</code>
 برنامه ای بنویسید که یک عدد صحیح مثبت از کاربر دریافت کند و مقسوم علیه(شمارنده) های آن عدد را چاپ کند.
 
 مثال:
@@ -114,7 +114,7 @@ y=3,x=5;
 
 1 2 3 4 12
 
-<strong style="color:red;">تمرین دوم</strong>
+<code style="color:red">تمرین دوم</code>
 برنامه ای بنویسید که عددی مانند n را از کاربر دریافت نموده و سپس n عدد صحیح دریافت کند و بزرگترین آن ها را در خروجی چاپ نماید.
 
 مثال:<br>
@@ -127,7 +127,7 @@ y=3,x=5;
 
 8
 
-<strong style="color:red;">تمرین سوم</strong>
+<code style="color:red">تمرین سوم</code>
 برنامه ای بنویسید که عدد n را دریافت کند و سپس یک آرایه به طول n از کاربر دریافت کند. سپس مشخص کند که آرایه آینه ای (پالیندروم یا متقارن) است یا نه.
 
 یک آرایه را آینه ای گویند اگر از چپ به راست خوانده شود یا از راست به چپ خوانده شود فرقی نکند برای مثال آرایه های زیر آینه ای هستند:
@@ -156,12 +156,12 @@ y=3,x=5;
 YES
 
 <details>
-<summary style="color:green;">راهنمایی</summary> 
+<summary style="color:green">راهنمایی</summary> 
 خانه هایی که نسبت به هم متقارن هستند را با هم مقایسه کنید، می توانید بین اندیس هایشان رابطه خاصی پیدا کنید.
 </details>
 <br>
 
-<strong style="color:red;">تمرین چهارم</strong>
+<code style="color:red">تمرین چهارم</code>
 برنامه ای بنویسید که عدد n را ورودی گرفته و n سطر چاپ نماید که سطر i ام i تا علامت + پشت سر هم داشته باشد .
 
 مثال:
@@ -186,7 +186,7 @@ n=7<br>
 ++++++<br>
 +++++++
 
-<strong style="color:red;">تمرین پنجم</strong>
+<code style="color:red">تمرین پنجم</code>
 سوالات زیر از سایت 
 <a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
  را حل نمایید:
@@ -195,7 +195,7 @@ n=7<br>
 <a href="http://projecteuler.net/problem=2" target="_blank">2: [Even Fibonacci numbers]</a><br>
 <a href="http://projecteuler.net/problem=6" target="_blank">6: [Sum Square Difference]</a>
 
-<strong style="color:red;">تمرین ششم</strong>
+<code style="color:red">تمرین ششم</code>
 برنامه ای بنویسید که عدد فردی مانند n دریافت کند و یک جدول n*n چاپ کند که در آن یک لوزی بزرگ از 'x' ها باشد و بقیه مقادیر '.' باشند برای درک بهتر به مثال های زیر دقت کنید:
 
 <span style="font-family: 'Courier New', Courier, monospace;">
@@ -228,7 +228,7 @@ xxx<br>
 </span>
 
 <details>
-<summary style="color:green;">راهنمایی</summary> 
+<summary style="color:green">راهنمایی</summary> 
 سعی کنید برای هر خط الگوی رفتاری پیدا کنید برای مثال اگر در یک خط در نیمه بالایی شکل الگوی زیر را داشته باشیم:
 
 3 ta '.' 3 ta 'x' 3 ta '.'
@@ -247,7 +247,7 @@ yek '.' 7 ta 'x' yek '.'
 
 <details>
 <summary><strong>سری چهارم تمرینات</strong></summary>
-<strong style="color:red;">تمرین اول</strong>
+<code style="color:red">تمرین اول</code>
 سوالات زیر از سایت 
 <a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
  را حل نمایید:
@@ -259,7 +259,7 @@ yek '.' 7 ta 'x' yek '.'
 
 <details>
 <summary><strong>سری پنجم تمرینات</strong></summary>
-<strong style="color:red;">تمرین اول</strong>
+<code style="color:red">تمرین اول</code>
 برنامه ای بنویسید که یک عدد صحیح مثبت از کاربر دریافت کند و مقسوم علیه(شمارنده) های آن عدد را با 
 
 <div dir="ltr">
@@ -273,10 +273,10 @@ $$
 چاپ کند.
 
 <details>
-<summary style="color:green;">راهنمایی</summary> 
+<summary style="color:green">راهنمایی</summary> 
 از ایده ای که در الگوریتم بررسی اول بودن یک عدد استفاده کردیم، کمک بگیرید.
 </details><br>
-<strong style="color:red;">تمرین دوم</strong>
+<code style="color:red">تمرین دوم</code>
 سوالات زیر از سایت 
 <a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
  را حل نمایید:
