@@ -295,4 +295,18 @@ $$
 
 </details>
 
+<details>
+<summary><strong>سری ششم تمرینات</strong></summary>
+<code style="color:red">تمرین اول</code>
+سوالات زیر از سایت 
+<a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
+ را حل نمایید:
+
+<a href="http://projecteuler.net/problem=16" target="_blank">16</a>,
+<a href="http://projecteuler.net/problem=20" target="_blank">20</a>,
+<a href="http://projecteuler.net/problem=25" target="_blank">25</a>
+
+
+</details>
+
 </div>
