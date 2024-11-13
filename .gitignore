@@ -1,5 +1,7 @@
 *.cpp~
+*.cpp#
 *.gitignore~
 *.gitignore
 *.txt~
 *.out
+.#*.cpp
