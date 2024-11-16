@@ -309,4 +309,35 @@ $$
 
 </details>
 
+<details>
+<summary><strong>سری هفتم تمرینات</strong></summary>
+<code style="color:red">تمرین اول</code>
+سوالات زیر از سایت 
+<a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
+ را حل نمایید:
+
+<a href="http://projecteuler.net/problem=8" target="_blank">8</a>,
+<a href="http://projecteuler.net/problem=13" target="_blank">13</a>,
+<a href="http://projecteuler.net/problem=48" target="_blank">48</a><br>
+
+سوالات ۱۳ و ۴۸ را از طریق کامل کردن فایل 
+bignum.cpp
+و افزودن تابع توان به این فایل حل کنید. یعنی تابعی به این فایل اضافه کنید که یک
+bignum
+و یک
+int 
+ورودی گرفته و بیگنام را به توان عدد صحیح ورودی برساند.
+
+<div dir='ltr'>
+
+```cpp
+bignum pw(bignum a,int b)
+{
+  //return a^b;
+}
+```
+</div>
+
+</details>
+
 </div>
