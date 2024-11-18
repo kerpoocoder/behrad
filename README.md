@@ -340,4 +340,32 @@ bignum pw(bignum a,int b)
 
 </details>
 
+<details>
+<summary><strong>سری هشتم تمرینات</strong></summary>
+<code style="color:red">تمرین اول</code>
+تابعی بازگشتی بنویسید که عددی مانند
+n
+را دریافت کند و حاصل جمع ارقام آن را محاسبه کند.
+
+<div dir='ltr'>
+
+```cpp
+int digit_sum(int n)
+{
+  //return sum of digits of n recursively 
+  //you shoudn't use any loop, just can use 'if' and digit_sum function
+}
+```
+</div>
+
+<code style="color:red">تمرین دوم</code>
+سوالات زیر از سایت 
+<a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
+ را با استفاده از توابع بازگشتی حل نمایید:
+
+<a href="http://projecteuler.net/problem=14" target="_blank">14</a>,
+<a href="http://projecteuler.net/problem=18" target="_blank">18</a>
+
+</details>
+
 </div>

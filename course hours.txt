@@ -1,6 +1,10 @@
-session     Date     Duration
+session     Date        Duration
+--------------------------------
   #1        Nov.5	01:35
   #2	    Nov.6	01:10
   #3	    Nov.9       01:45
   #4	    Nov.13	01:50
   #5	    Nov.16	01:35
+  #6	    Nov.18      01:55
+--------------------------------
+	total hours:	09:50
