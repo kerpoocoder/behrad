@@ -368,4 +368,24 @@ int digit_sum(int n)
 
 </details>
 
+<details>
+<summary><strong>سری نهم تمرینات</strong></summary>
+<code style="color:red">تمرین اول</code>
+سوالات زیر از سایت 
+<a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
+ را حل نمایید:
+
+<a href="http://projecteuler.net/problem=21" target="_blank">21</a>,
+<a href="http://projecteuler.net/problem=23" target="_blank">23</a>,
+<a href="http://projecteuler.net/problem=24" target="_blank">24</a>,
+<a href="http://projecteuler.net/problem=28" target="_blank">28</a><br>
+
+برای سوال ۲۸ با یک تابع بازگشتی جدول خواسته شده را بسازید فقط به علت بزرگ بودن جدول 
+ممکن روی کامپیوتر شما خطای استک اور فلو  رخ دهد که در این صورت می توانید سایز استک کامپیوترتان را ارتقا دهید
+این کار بسته به IDE
+مورد استفاده شما می تواند متفاوت باشد که با سرچ کردن راهش را می توانید بیابید
+یا این که به من پیام دهید تا سایتی را به شما معرفی کنم که کدتان را در آن سایت به صورت آنلاین اجرا کنید بدون این که خطای استک اورفلو بگیرید.
+
+</details>
+
 </div>

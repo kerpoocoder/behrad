@@ -6,5 +6,6 @@ session     Date        Duration
   #4	    Nov.13	01:50
   #5	    Nov.16	01:35
   #6	    Nov.18      01:55
+  #7	    Nov.20	01:30
 --------------------------------
-	total hours:	09:50
+	total hours:	11:20
