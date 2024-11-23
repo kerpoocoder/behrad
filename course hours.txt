@@ -1,11 +1,12 @@
-session     Date        Duration
---------------------------------
-  #1        Nov.5	01:35
-  #2	    Nov.6	01:10
-  #3	    Nov.9       01:45
-  #4	    Nov.13	01:50
-  #5	    Nov.16	01:35
-  #6	    Nov.18      01:55
-  #7	    Nov.20	01:30
---------------------------------
-	total hours:	11:20
+session		Date	        Duration	subject	
+----------------------------------------------------------------------
+  #1		Nov.5		01:35		Programming
+  #2	    	Nov.6		01:10		Programming
+  #3	    	Nov.9       	01:45		Programming
+  #4	    	Nov.13		01:50		Programming
+  #5	    	Nov.16		01:35		Programming
+  #6	    	Nov.18      	01:55		Programming
+  #7	    	Nov.20		01:30		Programming
+  #8	    	Nov.23		01:40		Combinatorial Analysis 
+----------------------------------------------------------------------
+	total hours:		13:00
