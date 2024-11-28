@@ -7,6 +7,7 @@ session		Date	        Duration	subject
   #5	    	Nov.16		01:35		Programming
   #6	    	Nov.18      	01:55		Programming
   #7	    	Nov.20		01:30		Programming
-  #8	    	Nov.23		01:40		Combinatorial Analysis 
+  #8	    	Nov.23		01:40		Combinatorial Analysis
+  #9		Nov.28		01:35		Programming
 ----------------------------------------------------------------------
-	total hours:		13:00
+	total hours:		14:35

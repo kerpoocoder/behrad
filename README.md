@@ -388,4 +388,17 @@ int digit_sum(int n)
 
 </details>
 
+<details>
+<summary><strong>سری دهم تمرینات</strong></summary>
+<code style="color:red">تمرین اول</code>
+سوالات زیر از سایت 
+<a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
+ را حل نمایید:
+
+<a href="http://projecteuler.net/problem=3" target="_blank">3</a>,
+<a href="http://projecteuler.net/problem=4" target="_blank">4</a>,
+<a href="http://projecteuler.net/problem=22" target="_blank">22</a><br>
+
+</details>
+
 </div>
