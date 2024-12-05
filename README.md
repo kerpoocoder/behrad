@@ -401,4 +401,38 @@ int digit_sum(int n)
 
 </details>
 
+<details>
+<summary><strong>سری یازدهم تمرینات</strong></summary>
+<code style="color:red">تمرین اول</code>
+سوالات زیر از سایت 
+<a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
+ را حل نمایید:
+
+<a href="http://projecteuler.net/problem=29" target="_blank">29</a>,
+<a href="http://projecteuler.net/problem=32" target="_blank">32</a><br>
+
+<code style="color:red">تمرین دوم</code>
+ فایل 
+ "exercise11_2.txt"
+  را از فایل های بالا پیدا کنید و دانلود کنید، این فایل حاوی تعدادی اسم (حدود 2000 رشته) می باشد و آخرین رشته نیز رشته 
+ "END"
+  می باشد که نشان دهنده پایان ورودی است. هر اسم احتمالا چندین مرتبه تکرار شده است.
+   برای هر اسم تعداد تکرار های آن را محاسبه نمایید و سپس برای هر اسم غیر از 
+   "END"
+   در یک خط تعداد تکرار های آن را چاپ نمایید برای مثال:
+Mashala 127
+Sakine 204
+….
+Kolompe 129
+خروجی فوق صرفا مثال است و لزوما درست نمی باشد.
+
+<details>
+<summary style="color:green">راهنمایی</summary> 
+از 
+map
+استفاده کنید.
+</details>
+
+</details>
+
 </div>
