@@ -435,4 +435,17 @@ map
 
 </details>
 
+<details>
+<summary><strong>سری دوازدهم تمرینات</strong></summary>
+<code style="color:red">تمرین اول</code>
+سوالات زیر از سایت 
+<a href="http://projecteuler.net/" target="_blank">Projecteuler</a>
+ را حل نمایید:
+
+<a href="http://projecteuler.net/problem=30" target="_blank">30</a>,
+<a href="http://projecteuler.net/problem=34" target="_blank">34</a>,
+<a href="http://projecteuler.net/problem=36" target="_blank">36</a><br>
+
+</details>
+
 </div>
