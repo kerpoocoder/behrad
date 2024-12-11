@@ -11,5 +11,6 @@ session		Date	        Duration	subject
   #9		Nov.28		01:35		Programming
   #10		Dec.4		01:35		Graph Theory
   #11		Dec.5		02:10		Programming
+  #12		Dec.11		01:30		Programming	
 ----------------------------------------------------------------------
-	total hours:		18:20
+	total hours:		19:50
