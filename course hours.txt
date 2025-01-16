@@ -14,6 +14,7 @@ session		Date	        Duration	subject
   #12		Dec.11		01:30		Programming
   #13		Dec.20		01:45		Programming
   #14		Dec.26		00:45		Combinatorial Analysis
+  #15		Jan.16		02:00		m1
 ----------------------------------------------------------------------
-	total hours:		22:20
+	total hours:		24:20
 	paid:			20:00
