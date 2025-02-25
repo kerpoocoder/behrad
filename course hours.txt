@@ -16,6 +16,7 @@ session		Date	        Duration	subject
   #14		Dec.26		00:45		Combinatorial Analysis
   #15		Jan.16		02:00		m1
   #16		Feb.16		01:30		Combinatorics
+  #17		Feb.25		01:30		Combinatorics
 ----------------------------------------------------------------------
-	total hours:		25:50
+	total hours:		27:20
 	paid:			20:00
